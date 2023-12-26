@@ -1,4 +1,4 @@
-// 3nd Approach - Two Pointer Approach
+// 3nd Approach - Two Pointer Approach for "Two Sum"
 
 class Solution {
 public:
